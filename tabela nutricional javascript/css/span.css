@@ -1,0 +1,15 @@
+.peso{
+	position: absolute;
+    margin-top: -7%;
+    margin-left: 20%;
+}
+.altura{
+	position: absolute;
+    margin-top: -7%;
+    margin-left: 46%;
+}
+.gordura{
+	position: absolute;
+    margin-top: -7%;
+    margin-left: 72%;
+}
